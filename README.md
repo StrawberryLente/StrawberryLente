@@ -1,14 +1,20 @@
 Hi, I'm Lente!
 
 About me:
--Age: 17
--Occupation: CompSci student
--Country: Belgium
--Interests & Hobbies: programming (of course :P), music production, DnD & gaming.
+
+-Age: 17 </br>
+-Occupation: CompSci student </br>
+-Country: Belgium </br>
+-Interests & Hobbies: programming (of course :P), music production, DnD & gaming. </br>
 
 Skills:
--Programming languages: Python, C, Javascript (+ HTML & CSS)
--Human languages: English & Dutch (fluent), French (conversational)
+
+-Programming languages: Python, C, Javascript (+ HTML & CSS) </br>
+-Human languages: English & Dutch (fluent), French (conversational) </br>
+
+Notable projects:
+
+-Coming soon (hopefully)... </br>
 
 Thanks for reading :D
 
