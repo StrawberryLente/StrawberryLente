@@ -16,7 +16,7 @@ Notable projects:
 
 -Coming soon (hopefully)... </br>
 
-Thanks for reading :D
+Thanks for reading! :D
 
 <!---
 StrawberryLente/StrawberryLente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
