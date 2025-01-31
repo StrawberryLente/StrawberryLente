@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @StrawberryLente
-- 👀 I’m interested in gamedev & music
-- 🌱 I’m currently learning lots of stuff at uni
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Oh god, I suck at thinking of fun facts...
+Hi, I'm Lente!
+
+About me:
+-Age: 17
+-Occupation: CompSci student
+-Country: Belgium
+-Interests & Hobbies: programming (of course :P), music production, DnD & gaming.
+
+Skills:
+-Programming languages: Python, C, Javascript (+ HTML & CSS)
+-Human languages: English & Dutch (fluent), French (conversational)
+
+Thanks for reading :D
 
 <!---
 StrawberryLente/StrawberryLente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
