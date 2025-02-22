@@ -9,7 +9,7 @@ About me:
 
 Skills:
 
--Programming languages: Python, C, Javascript (+ HTML & CSS) </br>
+-Programming languages: Python, C, Java, Javascript (+ HTML & CSS) </br>
 -Human languages: English & Dutch (fluent), French (conversational) </br>
 
 Notable projects:
