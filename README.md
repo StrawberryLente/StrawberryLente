@@ -2,7 +2,7 @@ Hi, I'm Lente!
 
 About me:
 
--Age: 17 </br>
+-Age: 18 </br>
 -Occupation: CompSci student </br>
 -Country: Belgium </br>
 -Interests & Hobbies: programming (of course :P), music production, DnD & gaming. </br>
